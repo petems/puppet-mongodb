@@ -1,5 +1,7 @@
 # MongoDB Puppet Module for Boxen
 
+NOTE: Changed from original branch to use default port ('27017')
+
 ## Usage
 
 ```puppet
