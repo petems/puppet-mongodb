@@ -1,6 +1,8 @@
 # MongoDB Puppet Module for Boxen
 
 NOTE: Changed from original branch to use default port ('27017')
+=======
+[![Build Status](https://travis-ci.org/boxen/puppet-mongodb.png)](https://travis-ci.org/boxen/puppet-mongodb)
 
 ## Usage
 
